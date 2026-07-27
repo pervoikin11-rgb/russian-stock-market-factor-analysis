@@ -1,5 +1,11 @@
 # 📈 Russian Stock Market Factor Analysis
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![MOEX](https://img.shields.io/badge/MOEX-Russian%20Market-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 > Statistical analysis of the Russian stock market using Python, Principal Component Analysis (PCA), factor analysis and clustering methods.
 
 ## 📖 About the Project
