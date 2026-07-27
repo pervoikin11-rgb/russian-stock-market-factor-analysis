@@ -51,12 +51,16 @@ The study is based on daily returns of **33 liquid stocks** traded on the **Mosc
 
 ## 📌 Key Results
 
-- Analysis of **33** liquid stocks traded on the Moscow Exchange (MOEX).
-- Research period: **2019–2025**.
-- More than **1700** trading observations analyzed.
-- Principal Component Analysis (PCA) identified the dominant market factor.
-- Cluster analysis revealed groups of stocks with similar behavior.
-- The obtained results demonstrate the structural organization of the Russian stock market and may be useful for portfolio analysis and risk assessment.
+## 📌 Key Results
+
+The statistical analysis revealed several important characteristics of the Russian stock market:
+
+- The dataset includes **33** highly liquid stocks traded on the Moscow Exchange (MOEX) over the **2019–2025** period.
+- Principal Component Analysis (PCA) showed that the **first principal component explains approximately 43.7% of the total variance**, indicating the presence of a strong common market factor.
+- Correlation analysis demonstrated moderate to high relationships between many stocks, reflecting the influence of systematic market movements.
+- Hierarchical clustering identified stable groups of companies with similar return dynamics, largely corresponding to sectoral characteristics.
+- The explained variance analysis confirmed that only a few principal components capture a significant share of the market information.
+- The obtained results can be applied to portfolio construction, market segmentation and investment risk assessment.
 
 
 ---
@@ -65,10 +69,12 @@ The study is based on daily returns of **33 liquid stocks** traded on the **Mosc
 
 | Parameter | Value |
 |-----------|------:|
-| Exchange | MOEX |
+| Exchange | Moscow Exchange (MOEX) |
 | Stocks | 33 |
-| Period | 2019–2025 |
+| Observation Period | 2019–2025 |
 | Trading Days | 1710 |
+| Frequency | Daily |
+| Data Type | Stock Returns |
 
 ---
 
