@@ -126,7 +126,7 @@ thesis/       Final thesis
 
 ## 💻 Source Code
 
-The complete implementation of the statistical analysis is available in the Jupyter Notebook:
+The complete implementation of the statistical analysis is available in the Google Colab:
 
 📄 **`диплом (2).ipynb`**
 
