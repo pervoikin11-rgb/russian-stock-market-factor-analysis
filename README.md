@@ -122,12 +122,36 @@ figures/      Charts and visualizations
 data/         Input data
 thesis/       Final thesis
 ```
+---
+
+## 💻 Source Code
+
+The complete implementation of the statistical analysis is available in the Jupyter Notebook:
+
+📄 **`диплом (2).ipynb`**
+
+The notebook contains the complete workflow of the project, including:
+
+- data preprocessing;
+- descriptive statistical analysis;
+- correlation analysis;
+- Principal Component Analysis (PCA);
+- factor analysis;
+- hierarchical clustering;
+- K-Means clustering;
+- data visualization;
+- interpretation of the obtained results.
 
 ---
+
 
 ## 👤 Author
----
 
+
+**Ilya Pervojkin**
+
+Bachelor Thesis, 2026
+---
 ## 📬 Contact
 
 If you have any questions or suggestions regarding this project, feel free to open an Issue or contact me via GitHub.
@@ -135,6 +159,3 @@ If you have any questions or suggestions regarding this project, feel free to op
 ---
 
 ⭐ If you found this project interesting, consider giving it a star.
-**Ilya Pervojkin**
-
-Bachelor Thesis, 2026
