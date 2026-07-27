@@ -82,7 +82,15 @@ thesis/       Final thesis
 ---
 
 ## 👤 Author
+---
 
+## 📬 Contact
+
+If you have any questions or suggestions regarding this project, feel free to open an Issue or contact me via GitHub.
+
+---
+
+⭐ If you found this project interesting, consider giving it a star.
 **Ilya Pervojkin**
 
 Bachelor Thesis, 2026
