@@ -9,7 +9,15 @@
 > Statistical analysis of the Russian stock market using Python, Principal Component Analysis (PCA), factor analysis and clustering methods.
 
 ## 📖 About the Project
+## 📑 Contents
 
+- [Project Overview](#-about-the-project)
+- [Objectives](#-objectives)
+- [Technologies](#-technologies)
+- [Methods](#-methods)
+- [Dataset](#-dataset)
+- [Repository Structure](#-repository-structure)
+- [Author](#-author)
 This repository contains the source code and research materials for my bachelor's thesis devoted to the structural and factor analysis of the Russian stock market.
 
 The study is based on daily returns of **33 liquid stocks** traded on the **Moscow Exchange (MOEX)** during the **2019–2025** period. The project applies multivariate statistical methods to identify latent market factors, analyze stock relationships and perform market segmentation.
