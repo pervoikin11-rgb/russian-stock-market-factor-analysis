@@ -1,1 +1,3 @@
-Jupyter notebooks used during the research.
+# Notebooks
+
+Jupyter notebooks used during the development and testing of the statistical analysis.
