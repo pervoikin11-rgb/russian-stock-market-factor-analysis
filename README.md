@@ -72,6 +72,41 @@ The study is based on daily returns of **33 liquid stocks** traded on the **Mosc
 
 ---
 
+# 📊 Visualizations
+
+The following figures present the main results of the statistical analysis.
+
+## Average Market Return
+
+![Average Market Return](figures/average_market_return.png)
+
+---
+
+## Correlation Matrix
+
+![Correlation Matrix](figures/correlation_matrix.png)
+
+---
+
+## Scree Plot (Eigenvalues)
+
+![Scree Plot](figures/scree_plot.png)
+
+---
+
+## Explained Variance
+
+![Explained Variance](figures/explained_variance.png)
+
+---
+
+## Hierarchical Clustering (Dendrogram)
+
+![Hierarchical Clustering](figures/dendrogram.png)
+
+---
+---
+
 ## 📂 Repository Structure
 
 ```text
