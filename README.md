@@ -51,8 +51,6 @@ The study is based on daily returns of **33 liquid stocks** traded on the **Mosc
 
 ## 📌 Key Results
 
-## 📌 Key Results
-
 The statistical analysis revealed several important characteristics of the Russian stock market:
 
 - The dataset includes **33** highly liquid stocks traded on the Moscow Exchange (MOEX) over the **2019–2025** period.
@@ -62,7 +60,14 @@ The statistical analysis revealed several important characteristics of the Russi
 - The explained variance analysis confirmed that only a few principal components capture a significant share of the market information.
 - The obtained results can be applied to portfolio construction, market segmentation and investment risk assessment.
 
+## 🚀 Project Highlights
 
+- Comprehensive statistical analysis of the Russian stock market.
+- Daily observations covering the period from **2019 to 2025**.
+- Analysis of **33** highly liquid MOEX stocks.
+- Application of modern multivariate statistical methods.
+- Reproducible research implemented entirely in Python.
+- Research conducted as part of a Bachelor's thesis in Economics.
 ---
 
 ## 📈 Dataset
@@ -159,3 +164,4 @@ If you have any questions or suggestions regarding this project, feel free to op
 ---
 
 ⭐ If you found this project interesting, consider giving it a star.
+
