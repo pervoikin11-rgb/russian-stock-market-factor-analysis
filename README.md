@@ -47,14 +47,17 @@ The study is based on daily returns of **33 liquid stocks** traded on the **Mosc
 ---
 
 ## 📊 Methods
+---
 
-- Descriptive Statistics
-- Correlation Analysis
-- Principal Component Analysis (PCA)
-- Factor Analysis
-- Hierarchical Clustering
-- K-Means Clustering
-- Data Visualization
+## 📌 Key Results
+
+- Analysis of **33** liquid stocks traded on the Moscow Exchange (MOEX).
+- Research period: **2019–2025**.
+- More than **1700** trading observations analyzed.
+- Principal Component Analysis (PCA) identified the dominant market factor.
+- Cluster analysis revealed groups of stocks with similar behavior.
+- The obtained results demonstrate the structural organization of the Russian stock market and may be useful for portfolio analysis and risk assessment.
+
 
 ---
 
